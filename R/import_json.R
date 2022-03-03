@@ -3,10 +3,8 @@
 #' @param myfiles vector of filenames.
 #' @param parts
 #'
-#' @return
 #' @export
 #'
-#' @examples
 import_json = function(myfiles,parts =
                          c("nose","neck","Rshoulder","Relbow","Rwrist","Lshoulder",
                                          "Lelbow","Lwrist","Rhip","Rknee","Rankle","Lhip",
